@@ -1,0 +1,2 @@
+# Entity Resolution Project: Data Pipeline
+This project takes messy contact data from a flat file (CSV), cleans up the formatting (removing extra spaces and fixing capitalization), and loads it into a structured SQLite database.
